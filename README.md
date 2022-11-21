@@ -1,5 +1,7 @@
 ## Solid Red
 
+<img src="https://github.com/izzaalfiansyah/solid-red/blob/master/preview/0.png" width="100%" />
+
 ## Usage
 
 Type the following command in the installation directory:
