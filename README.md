@@ -1,10 +1,4 @@
-## Installation
-
-Clone this repository:
-
-```bash
-$ git clone https://github.com/izzaalfiansyah/solidwind.git my-app
-```
+## Solid Red
 
 ## Usage
 
